@@ -1,0 +1,18 @@
+{
+  "name": "colourgenerator",
+  "version": "1.0.0",
+  "description": "Generates colours",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generate",
+    "colour"
+  ],
+  "author": "jp",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
